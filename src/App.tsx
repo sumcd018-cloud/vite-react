@@ -12,7 +12,7 @@ import {
 } from "lucide-react";
 
 // TODO: 部署 Code.gs 後，將取得的網頁應用程式網址貼在這裡（與通報表單使用同一組網址）
-const GAS_WEB_APP_URL = "https://script.google.com/macros/library/d/11Bj7lxRtVy4UGN4HHKaHrILm9m7VbkutRfYZJfLeGuk0dxX3C8U-IU6J/1";
+const GAS_WEB_APP_URL = "https://script.google.com/macros/s/AKfycbydg-r_0Ft2VU6a6IX-0yILcKKczFFOJjESQochb14hinY262Y-1SgvV2bR1Gob5xrS0A/exec";
 
 const STATUS_FLOW = ["未處理", "處理中", "已結案"];
 
@@ -294,7 +294,7 @@ import {
 } from "lucide-react";
 
 // TODO: 部署 Code.gs 後，將取得的網頁應用程式網址貼在這裡
-const GAS_WEB_APP_URL = "https://script.google.com/macros/library/d/11Bj7lxRtVy4UGN4HHKaHrILm9m7VbkutRfYZJfLeGuk0dxX3C8U-IU6J/1";
+const GAS_WEB_APP_URL = "https://script.google.com/macros/s/AKfycbydg-r_0Ft2VU6a6IX-0yILcKKczFFOJjESQochb14hinY262Y-1SgvV2bR1Gob5xrS0A/exec";
 
 const LOCATIONS = ["淡海線", "安坑線", "環狀線", "三鶯線"];
 const LOCATION_CODE = { 淡海線: "TAM", 安坑線: "AK", 環狀線: "CG", 三鶯線: "SY" };
